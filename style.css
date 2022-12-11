@@ -7,6 +7,16 @@
   span {
     font-family: "Bowlby One SC", cursive;
     /* font-family: 'Sorts Mill Goudy', serif; */
+    letter-spacing: 5px;
+  }
+  .letters_net{
+    color: white;
+  }
+  .letters_flix{
+    color: red;
+  }
+  .letters_n, .letters_f{
+    font-size: 35px;
   }
 
   body {
